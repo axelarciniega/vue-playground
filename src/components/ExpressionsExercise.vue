@@ -7,6 +7,7 @@
           <p>
             Write a math equation Vue can evaluate, inside of the curly braces
             below:
+            {{ 5+18 }}
           </p>
 
           <p>{{}}</p>
@@ -15,6 +16,7 @@
           <p>
             Use interpolation to get the customary Hello, World! to display on
             the screen. Don't forget your quotes
+            {{ "Hello, World!" }}
           </p>
           <p>{{}}</p>
         </div>
